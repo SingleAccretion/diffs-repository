@@ -24,8 +24,8 @@ Top file regressions (bytes):
 
 Top file improvements (bytes):
           -6 : 22663.dasm (-3.02% of base)
-          -4 : 3583.dasm (-2.01% of base)
           -4 : 3375.dasm (-0.39% of base)
+          -4 : 3583.dasm (-2.01% of base)
           -3 : 6219.dasm (-0.28% of base)
           -2 : 2973.dasm (-0.88% of base)
           -2 : 8343.dasm (-1.07% of base)
@@ -159,12 +159,12 @@ Top file improvements (bytes):
           -4 : 86560.dasm (-1.99% of base)
           -4 : 130850.dasm (-0.22% of base)
           -3 : 131218.dasm (-0.28% of base)
-          -2 : 35664.dasm (-2.82% of base)
           -2 : 120179.dasm (-0.77% of base)
+          -2 : 35664.dasm (-2.82% of base)
           -1 : 171290.dasm (-0.99% of base)
+          -1 : 50057.dasm (-0.17% of base)
           -1 : 140741.dasm (-0.57% of base)
           -1 : 140993.dasm (-0.07% of base)
-          -1 : 50057.dasm (-0.17% of base)
 
 18 total files with Code Size differences (16 improved, 2 regressed), 0 unchanged.
 
@@ -250,21 +250,21 @@ Top file regressions (bytes):
 Top file improvements (bytes):
          -15 : 106218.dasm (-1.29% of base)
           -6 : 113352.dasm (-3.66% of base)
-          -6 : 158416.dasm (-0.38% of base)
           -6 : 158407.dasm (-0.38% of base)
-          -5 : 113350.dasm (-2.99% of base)
+          -6 : 158416.dasm (-0.38% of base)
           -5 : 137506.dasm (-0.63% of base)
-          -4 : 130412.dasm (-2.01% of base)
-          -4 : 135615.dasm (-0.14% of base)
+          -5 : 113350.dasm (-2.99% of base)
           -4 : 210975.dasm (-0.39% of base)
+          -4 : 130412.dasm (-2.01% of base)
           -4 : 151328.dasm (-1.18% of base)
-          -3 : 196153.dasm (-2.36% of base)
-          -3 : 135313.dasm (-0.28% of base)
+          -4 : 135615.dasm (-0.14% of base)
           -3 : 139586.dasm (-1.79% of base)
+          -3 : 196153.dasm (-2.36% of base)
           -3 : 196156.dasm (-2.54% of base)
-          -2 : 130379.dasm (-1.07% of base)
+          -3 : 135313.dasm (-0.28% of base)
           -2 : 108771.dasm (-2.86% of base)
           -2 : 84423.dasm (-0.78% of base)
+          -2 : 130379.dasm (-1.07% of base)
           -1 : 113081.dasm (-0.07% of base)
 
 23 total files with Code Size differences (18 improved, 5 regressed), 0 unchanged.
@@ -361,8 +361,8 @@ Top file improvements (bytes):
           -5 : 12332.dasm (-1.12% of base)
           -3 : 119429.dasm (-1.03% of base)
           -2 : 65258.dasm (-0.54% of base)
-          -1 : 134402.dasm (-0.04% of base)
           -1 : 214176.dasm (-0.56% of base)
+          -1 : 134402.dasm (-0.04% of base)
 
 9 total files with Code Size differences (8 improved, 1 regressed), 0 unchanged.
 
